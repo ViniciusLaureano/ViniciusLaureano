@@ -26,9 +26,10 @@
 ![C#](https://img.shields.io/badge/-C%23-%239B4F96?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6TTk3IDY2LjJsLjktNC4zaC00LjJ2LTQuN2g1LjFMMTAwIDUxaDQuOWwtMS4yIDYuMWgzLjhsMS4yLTYuMWg0LjhsLTEuMiA2LjFoMi40djQuN2gtMy4zbC0uOSA0LjNoNC4ydjQuN2gtNS4xbC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZoLTIuNHYtNC43SDk3em00LjggMGgzLjhsLjktNC4zaC0zLjhsLS45IDQuM3oiLz48L3N2Zz4=&logoColor=white)
 ![C](https://img.shields.io/badge/-C-%23659ad3?style=for-the-badge&logo=C&logoColor=white)
 ![Clojure](https://img.shields.io/badge/-Clojure-%235881D8?style=for-the-badge&logo=Clojure&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-%235D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Prolog](https://img.shields.io/badge/-Prolog-%23D71921?style=for-the-badge&logo=sourcehut&logoColor=white)
   
 <!--
-![Haskell](https://img.shields.io/badge/-Haskell-%235D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?style=for-the-badge&logo=Ruby&logoColor=white)
 ![SASS](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
